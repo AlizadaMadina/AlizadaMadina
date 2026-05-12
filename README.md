@@ -8,12 +8,6 @@ Currently open to **internships and co-op roles** in Data Science, Data Analysis
 
 ## What I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **Languages:** Python · SQL · R · C++  
 **ML & Data:** scikit-learn · pandas · NLP (TF-IDF) · Random Forest · Logistic Regression · K-Means  
