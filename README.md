@@ -14,6 +14,7 @@ Currently open to **internships and co-op roles** in Data Science, Data Analysis
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
 **Languages:** Python · SQL · R · C++  
 **ML & Data:** scikit-learn · pandas · NLP (TF-IDF) · Random Forest · Logistic Regression · K-Means  
 **Web & Deployment:** Flask · Streamlit · HTML/CSS · Render · GitHub Actions (CI/CD)  
@@ -69,6 +70,7 @@ I'm actively working on new projects to deepen my Python + SQL skills and build 
 
 ---
 ![Madina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlizadaMadina&show_icons=true&theme=default&hide_border=true)
+
 ## Let's connect
 
 📧 maa211@sfu.ca  
