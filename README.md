@@ -66,5 +66,5 @@ I'm actively working on new projects to deepen my Python + SQL skills and build 
 ## Let's connect
 
 📧 maa211@sfu.ca  
-💼 [LinkedIn](https://www.linkedin.com/in/madina-alizada-613388364)
+💼 [LinkedIn](https://www.linkedin.com/in/madina-alizada-613388364)  
 💻 [GitHub](https://github.com/AlizadaMadina)
