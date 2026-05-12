@@ -1,6 +1,6 @@
 ## Hi, I'm Madina 👋
 
-I'm a Data Science student at Simon Fraser University (Vancouver, BC) building real, deployed data products — not just notebooks. I care about clean code, clear documentation, and projects that actually do something useful.
+I'm a Data Science student at Simon Fraser University (Vancouver, BC) building real, deployed data products, not just notebooks. I care about clean code, clear documentation, and projects that actually do something useful.
 
 Currently open to **internships and co-op roles** in Data Science, Data Analysis, Business Analysis, and AI/ML Engineering.
 
@@ -20,7 +20,7 @@ Currently open to **internships and co-op roles** in Data Science, Data Analysis
 ## Projects I'm proud of
 
 ### 🧠 Alzheimer's Disease Predictor
-**Clinical ML web app — deployed on Streamlit**  
+**Clinical ML web app - deployed on Streamlit**  
 Built an end-to-end ML pipeline that classifies patients into diagnostic categories (Nondemented, Demented, Converted) using the OASIS longitudinal clinical dataset. Used GroupKFold cross-validation to prevent data leakage across 150 patients and 373 visits. Achieved 71.29% cross-validated accuracy with a Random Forest model.
 
 🔗 [Live app](https://alzheimers-predictor-madina.streamlit.app) · [GitHub repo](https://github.com/AlizadaMadina/alzheimers-predictor)
@@ -57,9 +57,9 @@ I'm actively working on new projects to deepen my Python + SQL skills and build 
 
 - 🎓 BSc Data Science @ SFU · CGPA 3.76/4.33
 - 🤝 Co-founder of SFU Statistics and AI Reading Club
-- 🏅 Organized HackML — a 100+ student ML hackathon at SFU
+- 🏅 Organized HackML, a 100+ student ML hackathon at SFU
 - 🌍 From Baku, Azerbaijan · based in Vancouver, BC
-- 💬 I speak English, Russian, Turkish, Azerbaijani — learning Spanish
+- 💬 I speak English, Russian, Turkish, Azerbaijani & learning Spanish
 
 ---
 
