@@ -7,6 +7,7 @@ Currently open to **internships and co-op roles** in Data Science, Data Analysis
 ---
 
 ## What I work with
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -67,7 +68,7 @@ I'm actively working on new projects to deepen my Python + SQL skills and build 
 - 💬 I speak English, Russian, Turkish, Azerbaijani & learning Spanish
 
 ---
-
+![Madina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlizadaMadina&show_icons=true&theme=default&hide_border=true)
 ## Let's connect
 
 📧 maa211@sfu.ca  
