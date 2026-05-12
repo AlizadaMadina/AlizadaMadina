@@ -69,7 +69,6 @@ I'm actively working on new projects to deepen my Python + SQL skills and build 
 - 💬 I speak English, Russian, Turkish, Azerbaijani & learning Spanish
 
 ---
-![Madina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlizadaMadina&show_icons=true&theme=default&hide_border=true)
 
 ## Let's connect
 
