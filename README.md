@@ -33,7 +33,7 @@ Designed an NLP pipeline using TF-IDF + Logistic Regression to auto-categorize b
 
 🔗 [Live app](https://finance-tracker-w5zt.onrender.com) · [GitHub repo](https://github.com/AlizadaMadina/finance-tracker)
 
-**Stack:** Python · Flask · SQL · NLP · TF-IDF · GitHub Actions · Render
+**Stack:** Python · Flask · SQL · NLP · TF-IDF · GitHub Actions
 
 ---
 
