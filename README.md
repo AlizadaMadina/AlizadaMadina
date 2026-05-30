@@ -1,5 +1,5 @@
 ## Hi, I'm Madina 👋
-I'm a Data Science student at Simon Fraser University (Vancouver, BC) building real, deployed data products, not just notebooks. I care about clean code, clear documentation, and projects that actually do something useful.
+I'm a third year Data Science student at Simon Fraser University (Vancouver, BC) building real, deployed data products, not just notebooks. I care about clean code, clear documentation, and projects that actually do something useful.
 
 Currently open to **internships and co-op roles** in Data Science, Data Analysis, and Business Analysis.
 
@@ -7,7 +7,7 @@ Currently open to **internships and co-op roles** in Data Science, Data Analysis
 
 ## What I work with
 **Languages:** Python · SQL · R · C++  
-**ML:** scikit-learn · pandas · NLP (TF-IDF) · Random Forest · Logistic Regression · K-Means  
+**ML:** scikit-learn · Random Forest · Logistic Regression · K-Means  
 **Web & Deployment:** Flask · Streamlit · HTML/CSS · GitHub Actions (CI/CD)  
 **Databases:** MySQL · SQLite  
 **Visualization:** Tableau · Matplotlib · Seaborn  
