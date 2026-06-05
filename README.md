@@ -8,7 +8,7 @@ Currently open to **internships and co-op roles** in Data Science, Data Analysis
 ## What I work with
 **Languages:** Python · SQL · R · C++  
 **ML:** scikit-learn · Random Forest · Logistic Regression · K-Means  
-**Web & Deployment:** Flask · Streamlit · HTML/CSS · GitHub Actions (CI/CD)  
+**Web & Deployment:** Flask · Streamlit · GitHub Actions (CI/CD)  
 **Databases:** MySQL · SQLite  
 **Visualization:** Tableau · Matplotlib · Seaborn  
 **Tools:** Git · GitHub · VS Code · RStudio · Jupyter · Lucidchart
