@@ -1,7 +1,6 @@
 ## Hi, I'm Madina 👋
 I'm a third year Data Science student at Simon Fraser University (Vancouver, BC) building real, deployed data products, not just notebooks. I care about clean code, clear documentation, and projects that actually do something useful.
 
-Currently open to **internships and co-op roles** in Data Science, Data Analysis, and Business Analysis.
 
 ---
 
