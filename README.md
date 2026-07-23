@@ -50,7 +50,7 @@ Built an interactive dashboard exploring how alcohol, cannabis, and opioid use v
 **Relational database design, university course project**  
 Designed a 9-table MySQL database for a sports scouting platform. Led all documentation: ER diagrams, domain modelling, schema design, and stakeholder-facing write-ups. Enforced referential integrity across all tables.
 
-**Stack:** MySQL · draw.io · Lucidchart · SQL
+**Stack:** MySQL · draw.io · SQL
 
 ---
 
