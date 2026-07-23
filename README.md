@@ -1,5 +1,5 @@
 ## Hi, I'm Madina 👋
-I'm a third year Data Science student at Simon Fraser University (Vancouver, BC) building real, deployed data products, not just notebooks. I care about clean code, clear documentation, and projects that actually do something useful.
+I'm a third year Data Science student at Simon Fraser University (Vancouver, BC). I care about clean code, clear documentation, and projects that actually do something useful.
 
 
 ---
@@ -10,7 +10,7 @@ I'm a third year Data Science student at Simon Fraser University (Vancouver, BC)
 **Web & Deployment:** Flask · Streamlit · GitHub Actions (CI/CD)  
 **Databases:** MySQL · SQLite  
 **Visualization:** Tableau · Matplotlib · Seaborn  
-**Tools:** Git · GitHub · VS Code · RStudio · Jupyter · Lucidchart
+**Tools:** Git · GitHub · VS Code · RStudio · Jupyter 
 
 ---
 
@@ -56,15 +56,6 @@ Designed a 9-table MySQL database for a sports scouting platform. Led all docume
 
 ## What I'm currently working on
 Deepening my Python and SQL skills through real projects using public datasets. Always looking for meaningful problems worth solving.
-
----
-
-## A bit more about me
-- 🎓 BSc Data Science @ SFU · CGPA 3.76/4.33
-- 🤝 Co-founder of SFU Statistics and AI Reading Club
-- 🏅 Organized HackML, a 100+ student ML hackathon at SFU
-- 🌍 From Baku, Azerbaijan · based in Vancouver, BC
-- 💬 I speak English, Russian, Turkish, Azerbaijani & learning Spanish
 
 ---
 
