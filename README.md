@@ -14,7 +14,7 @@ I'm a third year Data Science student at Simon Fraser University (Vancouver, BC)
 
 ---
 
-## Projects I'm proud of
+## My Projects
 
 ### 🧠 Alzheimer's Disease Predictor
 **Clinical ML web app deployed on Streamlit**  
